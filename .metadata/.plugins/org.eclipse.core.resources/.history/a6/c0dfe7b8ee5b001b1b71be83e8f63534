@@ -1,0 +1,13 @@
+package ListExamples;
+abstract class aex{
+	int v=20;
+}
+public class AbstractExample extends aex {
+	public static void main(String[] args) {
+		AbstractExample ae=new AbstractExample();
+		aex ae1=new AbstractExample();
+		System.out.println(ae.v);
+		Sytem.out.println(ae1.v;)
+	}
+	
+}
